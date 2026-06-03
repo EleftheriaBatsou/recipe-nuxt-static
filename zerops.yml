@@ -3,7 +3,7 @@ zerops:
     build:
       base: nodejs@20
       buildCommands:
-        - yarn
+        - yarn install --immutable
         - yarn nuxi generate
       deployFiles:
         - .output/public/~
