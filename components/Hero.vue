@@ -48,7 +48,7 @@
               Server</a>
             <a href="https://docs.zerops.io" target="_blank"
               class="border border-slate-200 hover:bg-[#F9F9F9] px-6 py-3 font-semibold text-slate-700 transition-all rounded-full text-center text-md duration-300 hover:no-underline">Zerops
-              Documentation</a>
+              Documentation. Hello World!!!</a>
           </div>
 
         </div>
