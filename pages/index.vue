@@ -5,6 +5,9 @@
     <section
       class="relative mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 overflow-hidden"
     >
+      <h1 class="text-4xl font-bold text-center py-12">
+        Hello world, this is Eleftheria
+      </h1>
     </section>
   </main>
 </template>
